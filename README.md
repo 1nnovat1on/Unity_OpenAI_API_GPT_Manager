@@ -3,7 +3,7 @@ Unity_OpenAI_API_GPT_Manager
 
 A Unity script for seamless integration with OpenAI's API, specifically designed for GPT-3, GPT-4 and future models.
 
-This Unity-OpenAI-API-Manager provides an easy-to-use script for developers to communicate with OpenAI's API within their Unity projects. It enables you to generate text completions, create interactive experiences, and take advantage of the power of GPT-3 and future models within your Unity games or applications.
+This Unity_OpenAI_API_GPT_Manager provides an easy-to-use script for developers to communicate with OpenAI's API within their Unity projects. It enables you to generate text completions, create interactive experiences, and take advantage of the power of GPT-3 and future models within your Unity games or applications.
 
 Features:
 ---------
@@ -23,4 +23,4 @@ Getting Started:
 
 For more detailed usage instructions and examples, please refer to the example scenes included in the repository.
 
-By using the Unity-OpenAI-API-Manager, you can harness the potential of OpenAI's powerful language models to create unique and engaging experiences in your Unity projects. Whether you're building a chatbot, a narrative-driven game, or an interactive AI companion, this script is designed to help you bring your ideas to life with ease.
+By using the Unity_OpenAI_API_GPT_Manager, you can harness the potential of OpenAI's powerful language models to create unique and engaging experiences in your Unity projects. Whether you're building a chatbot, a narrative-driven game, or an interactive AI companion, this script is designed to help you bring your ideas to life with ease.
