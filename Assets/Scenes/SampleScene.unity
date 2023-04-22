@@ -604,7 +604,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   model: gpt-3.5-turbo
-  API_KEY: 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
+  API_KEY: 
 --- !u!114 &1729463464
 MonoBehaviour:
   m_ObjectHideFlags: 0
