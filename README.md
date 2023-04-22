@@ -1,4 +1,4 @@
-Unity-OpenAI-API-Manager
+Unity_OpenAI_API_GPT_Manager
 ========================
 
 A Unity script for seamless integration with OpenAI's API, specifically designed for GPT-3, GPT-4 and future models.
